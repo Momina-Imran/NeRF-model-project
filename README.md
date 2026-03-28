@@ -23,3 +23,30 @@ This project implements a Neural Radiance Fields (NeRF) model for 3D scene recon
 ---
 
 ## 📁 Project Structure
+Model/
+├── NeRF.py # Core NeRF model
+├── generate_gif.py # GIF generation
+Web App/
+├── backend/ # API + database
+├── static/ # Frontend files
+
+
+---
+
+## ⚙️ Installation
+
+```bash
+pip install -r requirements.txt
+▶️ How to Run
+Run Backend:
+cd Web App/backend
+python main.py
+Run Model:
+cd Model
+python NeRF.py
+📊 Output
+Generates rendered views
+Supports GIF visualization
+⚠️ Note
+
+Large files such as datasets and trained models are excluded from this repository. You can add your own dataset in the data/ folder and train the model.
