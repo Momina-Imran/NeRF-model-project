@@ -1,2 +1,25 @@
-# NeRF-model-project
-NeRF-based 3D scene reconstruction project with a web interface for rendering and visualization. The project uses deep learning to generate novel views from 2D images and supports GIF-based output generation.
+# 🧠 NeRF Model Project
+
+This project implements a Neural Radiance Fields (NeRF) model for 3D scene reconstruction and novel view synthesis using deep learning.
+
+---
+
+## 🚀 Features
+
+- 📸 Train NeRF model using multi-view images
+- 🎥 Generate novel views as GIFs
+- 🌐 Web-based interface for interaction
+- 🧠 Deep learning-based rendering pipeline
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- PyTorch
+- FastAPI (Backend)
+- HTML/CSS/JavaScript (Frontend)
+
+---
+
+## 📁 Project Structure
