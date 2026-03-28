@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Data & Models
+data/
+*.pth
+*.ckpt
+
+# Outputs
+*.gif
+outputs/
+
+# Database
+*.db
+
+# Node / frontend
+node_modules/
+
+# Misc
+.DS_Store
