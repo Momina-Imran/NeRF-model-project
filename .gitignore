@@ -11,8 +11,9 @@ data/
 *.ckpt
 
 # Outputs
-*.gif
-outputs/
+outputs/*
+!outputs/sample1.gif
+!outputs/sample2.png
 
 # Database
 *.db
