@@ -50,3 +50,10 @@ Supports GIF visualization
 ⚠️ Note
 
 Large files such as datasets and trained models are excluded from this repository. You can add your own dataset in the data/ folder and train the model.
+
+
+
+## 🎥 Output
+
+![sample](outputs/sample.gif)
+
