@@ -37,14 +37,17 @@ Web App/
 
 ```bash
 pip install -r requirements.txt
-▶️ How to Run
+## How to Run
 Run Backend:
 cd Web App/backend
 python main.py
 Run Model:
 cd Model
 python NeRF.py
-📊 Output
+
+---
+
+##📊 Output
 Generates rendered views
 Supports GIF visualization
 ⚠️ Note
@@ -52,7 +55,7 @@ Supports GIF visualization
 Large files such as datasets and trained models are excluded from this repository. You can add your own dataset in the data/ folder and train the model.
 
 
-
+---
 ## 🎥 Output
 
 ![sample](outputs/sample.gif)
