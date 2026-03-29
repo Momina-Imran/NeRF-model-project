@@ -59,4 +59,4 @@ Large files such as datasets and trained models are excluded from this repositor
 
 ## 🎥 Output
 
-![NeRF Result](Web%20App/backend/sample.gif)
+Web App/backend/sample.gif
